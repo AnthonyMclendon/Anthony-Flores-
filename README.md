@@ -3,7 +3,7 @@ I am a Cybersecurity GRC (Governance, Risk, and Compliance) Specialist and curre
 With a background spanning Criminal Justice (MS) and English (BA), I blend advanced investigative research with executive-level policy analysis to help companies protect data and mitigate liabilities without losing business velocity.
 
 📁 Enterprise GRC Portfolio
-📊 Project 1: [Qualitative Enterprise Risk Register] Link: 
+📊 Project 1: [Qualitative Enterprise Risk Register] Link: https://drive.proton.me/urls/BG0RKFWD54#dWsDu1gT9tD8
 * A comprehensive risk register modeling a fictional enterprise organization. Tracks inherent threat metrics, likelihood/impact scoring, and maps technical remediation steps using the **NIST Cybersecurity Framework (CSF)**.
 
 🤖 Project 2: [Corporate AI Acceptable Use Policy] Link: https://drive.proton.me/urls/AD1S95D5J0#W6QlX7FqbBB2
@@ -20,7 +20,7 @@ With a background spanning Criminal Justice (MS) and English (BA), I blend advan
 
 🛠️ Core Competencies & Skills
 * Frameworks & Compliance: NIST CSF, PCI-DSS, Data Privacy Standards, Corporate Governance.
-* Professional Skillset:** Risk Assessment, Regulatory Analysis, Policy Writing, Executive Decision Making.
+* Professional Skillset:Risk Assessment, Regulatory Analysis, Policy Writing, Executive Decision Making.
 * Languages: English (Native), Spanish (Native), French (A2).
 
 📇 Connect With Me
