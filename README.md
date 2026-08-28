@@ -6,7 +6,7 @@ With a background spanning Criminal Justice (MS) and English (BA), I blend advan
 📊 Project 1: [Qualitative Enterprise Risk Register] Link: 
 * A comprehensive risk register modeling a fictional enterprise organization. Tracks inherent threat metrics, likelihood/impact scoring, and maps technical remediation steps using the **NIST Cybersecurity Framework (CSF)**.
 
-🤖 Project 2: [Corporate AI Acceptable Use Policy] Link 
+🤖 Project 2: [Corporate AI Acceptable Use Policy] Link: https://drive.proton.me/urls/AD1S95D5J0#W6QlX7FqbBB2
 * A comprehensive corporate policy framework addressing data privacy, intellectual property risks, and regulatory compliance for employees utilizing generative AI tools in workplace environments.
 
 🔍 Project 3: [Third-Party Vendor Risk Assessment Questionnaire] Link: 
