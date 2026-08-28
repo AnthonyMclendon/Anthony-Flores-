@@ -12,7 +12,7 @@ With a background spanning Criminal Justice (MS) and English (BA), I blend advan
 🔍 Project 3: [Third-Party Vendor Risk Assessment Questionnaire] Link: https://drive.proton.me/urls/TY990P6D00#CwlskaYBBioi
 * A structured procurement audit template designed to evaluate third-party software vendors against security and encryption standards (NIST SP 800-53 / ISO 27001) to eliminate supply chain vulnerabilities.
 
-⏱️ Project 4: [Business Impact Analysis (BIA) Template] Link: 
+⏱️ Project 4: [Business Impact Analysis (BIA) Template] Link: https://drive.proton.me/urls/YSRAHCAFJ8#OH0W1ATr4ZHV
 * A critical operational continuity matrix mapping corporate business systems to disaster recovery metrics including Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO).
 
 
