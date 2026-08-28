@@ -9,7 +9,7 @@ With a background spanning Criminal Justice (MS) and English (BA), I blend advan
 🤖 Project 2: [Corporate AI Acceptable Use Policy] Link: https://drive.proton.me/urls/AD1S95D5J0#W6QlX7FqbBB2
 * A comprehensive corporate policy framework addressing data privacy, intellectual property risks, and regulatory compliance for employees utilizing generative AI tools in workplace environments.
 
-🔍 Project 3: [Third-Party Vendor Risk Assessment Questionnaire] Link: 
+🔍 Project 3: [Third-Party Vendor Risk Assessment Questionnaire] Link: https://drive.proton.me/urls/TY990P6D00#CwlskaYBBioi
 * A structured procurement audit template designed to evaluate third-party software vendors against security and encryption standards (NIST SP 800-53 / ISO 27001) to eliminate supply chain vulnerabilities.
 
 ⏱️ Project 4: [Business Impact Analysis (BIA) Template] Link: 
